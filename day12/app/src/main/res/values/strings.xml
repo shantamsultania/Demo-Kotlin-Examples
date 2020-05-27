@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">todoapp</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="this_is_a_todo_application">This is a todo application</string>
+    <string name="this_is_the_todo_application_n_welcome_to_my_application_nto_add_work_in_todo_just_press_add_button_below">This is the TODO application \n welcome to my application \nto add work in todo just press add button below</string>
+    <string name="title">title</string>
+    <string name="enter_your_todo_work_title">Enter your TODO work title</string>
+    <string name="enter_your_work_here">Enter your work here</string>
+    <string name="enter_here">enter here ....</string>
+    <string name="save">SAVE</string>
+</resources>
