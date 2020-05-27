@@ -3,4 +3,5 @@
     <string name="name">Name</string>
     <string name="last_name">Last Name</string>
     <string name="generate_excel">Generate Excel</string>
+    <string name="get_data_from_csv">Get data From CSV</string>
 </resources>
